@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 <div>
-<img height = "180cm" src = "https://github-readme-stats.vercel.app/api?username=leticiamoraess&show_icons=true&theme=tokyonight">
+<img height = "150cm" src = "https://github-readme-stats.vercel.app/api?username=leticiamoraess&show_icons=true&theme=tokyonight">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamoraess&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/leticiamoraess/github-readme-stats)
   
