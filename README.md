@@ -1,5 +1,5 @@
 ## Hi there! I am Letícia de Moraes 👋
-
+ 
 <!--
 
 - 🔭 I’m currently working on ...
@@ -13,8 +13,9 @@
 -->
 <div>
 <a href = https://github.com/leticiamoraess/github-readme-stats)>
+
 <img height = "180cm" src = "https://github-readme-stats.vercel.app/api?username=leticiamoraess&show_icons=true&theme=tokyonight">
-<img align = "right" height = "100cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamoraess&show_icons=true&theme=tokyonight&layout=compact">
+<img align = "right" height = "100cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamoraess&theme=tokyonight&layout=compact">
 </a>
 </div>
 <picture>
