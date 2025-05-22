@@ -1,20 +1,10 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello%2C+my+name+is+Let%C3%ADcia+%3AD;Welcome+to+my+profile!+)](https://git.io/typing-svg) <img src = "img/luna-sailor-moon.gif" height = 150cm>
  
-<!--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Me chamo Letícia de Moraes, tenho 17 anos e sou de Garanhuns - Pernambuco, no Brasil. Atualmente sou estudante em técnico em informática integrado ao ensino médio no IFPE - Campus Garanhuns. Amo tecnologia e sempre tenho curiosidade de aprender ainda mais desta área 💻.
+Me chamo Letícia de Moraes, tenho 18 anos e sou de Garanhuns - Pernambuco, no Brasil. Atualmente sou estudante em técnico em informática integrado ao ensino médio no IFPE - Campus Garanhuns. Amo tecnologia e sempre tenho curiosidade de aprender ainda mais desta área 💻.
 
-My name is Letícia de Moraes, I'm 17 years old and I'm from Garanhuns - Pernambuco, in Brazil. I am currently a computer technician student integrated into high school at IFPE - Campus Garanhuns. I love technology and I'm always curious to learn even more about this area 💻.
+My name is Letícia de Moraes, I'm 18 years old and I'm from Garanhuns - Pernambuco, in Brazil. I am currently a computer technician student integrated into high school at IFPE - Campus Garanhuns. I love technology and I'm always curious to learn even more about this area 💻.
 
 <div>
  <h2 align = "center">Estatísticas 📊</h2>
@@ -30,6 +20,6 @@ My name is Letícia de Moraes, I'm 17 years old and I'm from Garanhuns - Pernamb
 </picture>
 
 <h2 align = "center">Minhas Redes ⭐</h2>
-<a href = "lelelma2007@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "mailto:lleticiama.academico@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href = "https://www.instagram.com/_leticia.moraes._?igsh=ZjJseW96eWR6emU4"> <img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = ".hiikari_."><img src = "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
