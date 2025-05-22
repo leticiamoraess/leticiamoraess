@@ -20,6 +20,6 @@ My name is Letícia de Moraes, I'm 18 years old and I'm from Garanhuns - Pernamb
 </picture>
 
 <h2 align = "center">Minhas Redes ⭐</h2>
-<a href = "mailto:lleticiama.academico@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "lleticiama.academico@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href = "https://www.instagram.com/_leticia.moraes._?igsh=ZjJseW96eWR6emU4"> <img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = ".hiikari_."><img src = "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
