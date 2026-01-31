@@ -2,9 +2,9 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello%2C+my+name+is+Let%C3%ADcia+%3AD;Welcome+to+my+profile!+)](https://git.io/typing-svg) <img src = "img/luna-sailor-moon.gif" height = 150cm>
  
 
-Me chamo Letícia de Moraes, tenho 18 anos e sou de Garanhuns - Pernambuco, no Brasil. Atualmente sou estudante em técnico em informática integrado ao ensino médio no IFPE - Campus Garanhuns. Amo tecnologia e sempre tenho curiosidade de aprender ainda mais desta área 💻.
+Me chamo Letícia de Moraes, tenho 18 anos e sou de Garanhuns - Pernambuco, no Brasil. Sou técnica em Informática (IFPE - Campus Garanhuns). Atualmente sou estudante em Análise e Desenvolvimento de Sistemas no IFPE - Campus Garanhuns; e faço curso para programador full-stack. Amo tecnologia e sempre tenho curiosidade de aprender ainda mais desta área 💻.
 
-My name is Letícia de Moraes, I'm 18 years old and I'm from Garanhuns - Pernambuco, in Brazil. I am currently a computer technician student integrated into high school at IFPE - Campus Garanhuns. I love technology and I'm always curious to learn even more about this area 💻.
+My name is Letícia de Moraes, I'm 18 years old and I'm from Garanhuns - Pernambuco, in Brazil. I am an IT technician (IFPE - Campus Garanhuns). Currently a student in Systems Analysis and Development at IFPE - Campus Garanhuns; and I take a full-stack programmer course. I love technology and I'm always curious to learn even more about this area 💻.
 
 <div>
  <h2 align = "center">Estatísticas 📊</h2>
