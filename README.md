@@ -8,6 +8,12 @@ My name is Letícia de Moraes, I'm 18 years old and I'm from Garanhuns - Pernamb
 
 <div>
  <h2 align = "center">Estatísticas 📊</h2>
+ 
+<a href = https://github.com/leticiamoraess/github-readme-stats)>
+<img height = "180cm" src = "https://github-readme-stats.vercel.app/api?username=leticiamoraess&show_icons=true&theme=tokyonight">
+<img align = "right" height = "100cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamoraess&theme=tokyonight&layout=compact">
+</a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leticiamoraess/leticiamoraess/output/github-contribution-grid-snake-dark.svg">
