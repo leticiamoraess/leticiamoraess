@@ -1,5 +1,12 @@
+<div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello%2C+my+name+is+Let%C3%ADcia+%3AD;Welcome+to+my+profile!+)](https://git.io/typing-svg) <img src = "img/luna-sailor-moon.gif" height = 150cm>
+<img src="img/giphy.gif" height="400"/>
+
+<br>
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+my+name+is+Let%C3%ADcia+%E2%81%BA%CB%9A%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9%E2%82%8A%E2%9C%A9%C2%B0%EF%BD%A1%E2%8B%86%CB%9A%E2%81%BA;Welcome+to+my+profile!+%E2%9C%A7%CB%96%C2%B0)](https://git.io/typing-svg)
+
+</div>
  
 
 Me chamo Letícia de Moraes, tenho 18 anos e sou de Garanhuns - Pernambuco, no Brasil. Sou técnica em Informática (IFPE - Campus Garanhuns). Atualmente sou estudante em Análise e Desenvolvimento de Sistemas no IFPE - Campus Garanhuns; e faço curso para programador full-stack. Amo tecnologia e sempre tenho curiosidade de aprender ainda mais desta área 💻.
@@ -22,6 +29,6 @@ My name is Letícia de Moraes, I'm 18 years old and I'm from Garanhuns - Pernamb
 </picture>
 
 <h2 align = "center">Minhas Redes ⭐</h2>
-<a href = "lleticiama.academico@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "leticia.moraes.dev@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href = "https://www.instagram.com/_leticia.moraes._?igsh=ZjJseW96eWR6emU4"> <img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = ".hiikari_."><img src = "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
