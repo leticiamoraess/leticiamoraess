@@ -9,7 +9,7 @@
 </div>
 
 
- <h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
+ <h2 align="center"> <em>「 ✦ About me ✦ 」</em></h2>
 
 <img src="img/perfectblue.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
@@ -23,8 +23,8 @@
 <br/>
 <br/>
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at Instituto Federal de Pernambuco - Campus Garanhuns (IFPE) </b></em> <br/>
-   <img src="/imgs/img3.png" width="15"/>   <em><b> I'm 19 years old and I'm from Garanhuns - Pernambuco, in Brazil. </b></em> <br/>
+   <em>𓍢ִ໋. ✿ <b>  Studying at Instituto Federal de Pernambuco - Campus Garanhuns (IFPE) </b></em> <br/>
+   <em>𓍢ִ໋. ✿ <b>  I'm 19 years old and I'm from Garanhuns - Pernambuco, in Brazil. </b></em> <br/>
 </p>
 
 </br>
