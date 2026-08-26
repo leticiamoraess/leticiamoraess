@@ -7,11 +7,27 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+my+name+is+Let%C3%ADcia+%E2%81%BA%CB%9A%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9%E2%82%8A%E2%9C%A9%C2%B0%EF%BD%A1%E2%8B%86%CB%9A%E2%81%BA;Welcome+to+my+profile!+%E2%9C%A7%CB%96%C2%B0)](https://git.io/typing-svg)
 
 </div>
- 
 
-Me chamo Letícia de Moraes, tenho 18 anos e sou de Garanhuns - Pernambuco, no Brasil. Sou técnica em Informática (IFPE - Campus Garanhuns). Atualmente sou estudante em Análise e Desenvolvimento de Sistemas no IFPE - Campus Garanhuns; e faço curso para programador full-stack. Amo tecnologia e sempre tenho curiosidade de aprender ainda mais desta área 💻.
 
-My name is Letícia de Moraes, I'm 18 years old and I'm from Garanhuns - Pernambuco, in Brazil. I am an IT technician (IFPE - Campus Garanhuns). Currently a student in Systems Analysis and Development at IFPE - Campus Garanhuns; and I take a full-stack programmer course. I love technology and I'm always curious to learn even more about this area 💻.
+ <h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
+
+<img src="img/perfectblue.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+
+<p>
+  Hello There! <em><b> I'm Letícia de Moraes </b></em>, a Systems Analysis and Development student. During high school, I completed a technical program in Information Technology integrated with high school. I enjoy programming, especially in Java. Currently, I’m improving my programming skills and expanding my knowledge in technology.
+
+</p>
+
+
+<br/>
+<br/>
+<p align="center">
+   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at Instituto Federal de Pernambuco - Campus Garanhuns (IFPE) </b></em> <br/>
+   <img src="/imgs/img3.png" width="15"/>   <em><b> I'm 19 years old and I'm from Garanhuns - Pernambuco, in Brazil. </b></em> <br/>
+</p>
+
+</br>
 
 <div>
  <h2 align = "center">Estatísticas 📊</h2>
